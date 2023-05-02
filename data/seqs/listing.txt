@@ -1,0 +1,1 @@
+-rw-rw-r-- 1 ll ll 353 11月 16  2015 tb1-protein.fasta
